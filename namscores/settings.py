@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-e16s4@pm9tab8pq#l^$&-*0%w9olsv%-u1_w-aqbw+28qpqzzq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.cyclic.app']
+ALLOWED_HOSTS = ['anthonymt02.pythonanywhere.com']
 
 
 # Application definition
